@@ -6,7 +6,7 @@ export const environment = {
   production: false,
   // replace the data below with your personal data
   personal: {
-    caricature: "IMG_1116.png",
+    caricature: "areen-khalaila-illustration.png",
     name: "Areen Khalaila",
     birth: "2001-12-27",
     email: "areen.khalaila@gmail.com",
