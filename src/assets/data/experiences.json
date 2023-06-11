@@ -6,7 +6,7 @@
         "endAt": "08-25-2022",
         "companyName": "Brandies University",
         "website": "http://www.brandeis.edu",
-        "logo": "assets/template/experience/logo/brandies-logo.png",
+        "logo": "assets/template/experience/logo/brandeis-logo.png",
         "internationalizations": [
             {
                 "language": "pt",
@@ -24,13 +24,13 @@
             }
         ],
         "technologies": [
-            "PHP", "Zend Framework", "Cake Framework", "HTML", "CSS", "CSS3", "Javascript", "jQuery", "AJAX", "SOAP", "Joomla", "Wordpress", "SVN", "SQL", "MySQL", "PostgreSQL", "Windows"
+            "Python programming", "Problem-solving", "Teaching and communication", "Collaboration", "Teamwork"
         ],
         "medias": [
             {
                 "icon": "facebook",
-                "title": "Facebook Editora Nosso Trânsito",
-                "http": "https://www.facebook.com/editoranossotransito/"
+                "title": "Facebook Brandeis University",
+                "http": "https://www.facebook.com/brandeisuniversity/"
             }
         ],
         "backgroundUrl": "assets/template/experience/uberaba.jpg"
@@ -38,11 +38,11 @@
     {
         "id": 2,
         "position": 2,
-        "startAt": "01-03-2011",
-        "endAt": "06-16-2014",
-        "companyName": "E-tática",
-        "website": "https://www.e-tatica.com/",
-        "logo": "assets/template/experience/logo/etatica-logo.png",
+        "startAt": "08-025-2022",
+        "endAt": "12-20-2022",
+        "companyName": "TRIO SSSP",
+        "website": "https://www.brandeis.edu/academic-services/sssp/index.html",
+        "logo": "assets/template/experience/logo/TRIO-SSSP-logo.png",
         "internationalizations": [
             {
                 "language": "pt",
@@ -53,30 +53,26 @@
             },
             {
                 "language": "en",
-                "city": "Rio de Janeiro",
-                "country": "Brazil",
-                "role": "Full-stack Developer",
-                "description": "<b>E-tática</b> is an agency specialized in solutions for <i>e-commerce</i>, digital marketing, and visual identity since 2008, working with large, small, and medium-sized businesses, offering to their clients the know-how in the integration of <i>enterprise resource planning (ERP)</i> and <i>third-party APIs</i>, such as custom <i>payment providers</i>. It does the integration of the internal management of the online platform and physical store, being certified by the main platforms in the market.<br><br>At <i>E-tática</i> I have worked to develop custom solutions for clients wholesale and retail, valuing the quality and continuity of projects in the medium and long term."
+                "city": "Waltham",
+                "country": "MA",
+                "role": "Peer Tutor of Computer Science and Math",
+                "description":"At the <b>TRIO Student Support Services Program</b>, I had the privilege of tutoring first-generation students in computer science and mathematics courses. Through personalized support and guidance, I significantly improved their academic performance. By providing individualized assistance, I enhanced the success of first-generation students in computer science and mathematics courses."
             }
         ],
         "technologies": [
-            "Magento 1.X", "PHP", "Zend Framework", "HTML", "CSS", "CSS3", "Javascript", "jQuery", "SOAP", "Wordpress", "SVN", "Payment Services", "SSH", "SSL", "Linux"
+            "Tutoring and mentoring", "Communication and interpersonal skills", "Adaptability", "Problem-solving", "Empathy and sensitivity", "Time management and organization"
         ],
         "medias": [
-            {
-                "icon": "linkedin",
-                "title": "LinkedIn E-tática",
-                "http": "https://www.linkedin.com/company/etatica/"
-            },
+
             {
                 "icon": "facebook",
-                "title": "Facebook E-tática",
-                "http": "https://www.facebook.com/etatica/"
+                "title": "Facebook SSSP",
+                "http": "https://www.facebook.com/BrandeisSSSP"
             },
             {
                 "icon": "instagram",
-                "title": "Instagram E-tática",
-                "http": "https://www.instagram.com/somos_etatica/"
+                "title": "Instagram SSSP",
+                "http": "https://www.instagram.com/deissssp/?hl=en"
             }
         ],
         "backgroundUrl": "assets/template/experience/rio.jpg"
