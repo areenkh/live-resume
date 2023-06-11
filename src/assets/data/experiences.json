@@ -80,35 +80,35 @@
     {
         "id": 3,
         "position": 3,
-        "startAt": "07-01-2014",
-        "endAt": "12-23-2016",
-        "companyName": "Deevo Studio",
-        "website": "http://deevo.com.br/",
-        "logo": "assets/template/experience/logo/deevo-logo.png",
+        "startAt": "09-20-2022",
+        "endAt": "12-20-2022",
+        "companyName": "TAMID Group",
+        "website": "https://tamidgroup.org",
+        "logo": "assets/template/experience/logo/TAMID-logo.png",
         "internationalizations": [
             {
                 "language": "pt",
                 "city": "São Paulo",
                 "country": "Brasil",
                 "role": "Desenvolvedor Mobile",
-                "description": "A <b>Deevo Studio</b> é uma agência especializada em <i>web design</i> e <i>desenvolvimento</i> com um extenso portfólio de casos de sucesso, resultado de mais de <i>20 anos</i> de experiência com diversas agências e no mercado corporativo. Suas criações envolvem tudo, desde o desenvolvimento da marca e identidade visual, até a criação de aplicativos e sites, com um amplo conhecimento do Wordpress e das tecnologias da web. <br><br>Na <i>Deevo Studio</i>, tive a chance de usar o conhecimento anterior de <i>back-end</i> combinado com a experiência prática no desenvolvimento JAVA para aceitar o desafio de iniciar um <i>Departamento de Desenvolvimento Android</i> na empresa, fornecendo complexos <i>Aplicativos Android</i> para empresas no Brasil."
+                "description": "During my Software Engineer internship at <b>TAMID Group Technology Consulting</b>, I provided technology consulting services to Israeli client companies. I had the opportunity to build a chatbot using Google Chat and integrate it with Google Classroom through Google API. Additionally, I participated in developing a Google Stream Engine for uploading learning cycles to Google Classroom Stream. Through these projects, I significantly improved communication and learning experiences for teachers by seamlessly integrating the chatbot with Google Classroom."
             },
             {
                 "language": "en",
-                "city": "São Paulo",
-                "country": "Brazil",
-                "role": "Mobile Developer",
-                "description": "At <b>Deevo Studio</b> is a company specializing in <i>web design</i> and <i>development</i> with an extensive portfolio of cases, the result of <i>20 years</i> of experience with other agencies and the corporate market. Their creations involve everything from brand development and visual identity to the creation of applications and websites, with a wide knowledge of Wordpress and Web Technologies.<br><br>At <i>Deevo Studio</i>, I had the chance to use the previously back-end knowledge combined with practical experience in JAVA development to accept the challenge to start an <i>Android Development Department</i> in the company, delivering complex <i>Android Applications</i> to companies in Brazil."
+                "city": "Waltham",
+                "country": "MA",
+                "role": "Software Engineer Intern",
+                "description": "During my Software Engineer internship at <b>TAMID Group Technology Consulting</b>, I provided technology consulting services to Israeli client companies. I had the opportunity to build a chatbot using Google Chat and integrate it with Google Classroom through Google API. Additionally, I participated in developing a Google Stream Engine for uploading learning cycles to Google Classroom Stream. Through these projects, I significantly improved communication and learning experiences for teachers by seamlessly integrating the chatbot with Google Classroom."
             }
         ],
         "technologies": [
-            "Java (Android)", "Wordpress", "HTML", "HTML5", "CSS", "CSS3", "Javascript", "jQuery", "Google APIs", "SQL", "MySQL", "PHP", "Slim Framework", "Laravel", "SMTP", "Versioning Control", "BitBucket", "Jira", "Git", "Kanban framework"
+            "Software development", "API integration", "Problem-solving", "Collaboration and teamwork", "Communication", "User experience (UX)", "Project management", "Python", "JavaScript", "Google Chat", "Google API", "Google Classroom", "Web technologies"
         ],
         "medias": [
             {
                 "icon": "linkedin",
-                "title": "LinkedIn Deevo Studio",
-                "http": "https://www.linkedin.com/company/deevo/about/"
+                "title": "LinkedIn Tamid Group",
+                "http": "https://www.linkedin.com/company/tamid-at-brandeis-university/"
             }
         ],
         "backgroundUrl": "assets/template/experience/sao-paulo.jpg"
