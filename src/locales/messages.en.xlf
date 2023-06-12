@@ -18,7 +18,7 @@
           <context context-type="sourcefile">src/app/posts/posts-carousel/posts-carousel.component.html</context>
           <context context-type="linenumber">11</context>
         </context-group>
-        <note priority="1" from="description">posts</note>
+        <note priority="1" from="description">projects</note>
       </trans-unit>
       <trans-unit id="successfulSubmit" datatype="html">
         <source>Thank you for contacting me, I&apos;ll reply to you very soon.</source>
@@ -153,7 +153,7 @@
           <context context-type="sourcefile">src/app/posts/posts-carousel/posts-carousel.component.html</context>
           <context context-type="linenumber">18</context>
         </context-group>
-        <note priority="1" from="description">posts</note>
+        <note priority="1" from="description">projects</note>
       </trans-unit>
       <trans-unit id="synopsis" datatype="html">
         <source>In countless times, an article or a simple piece of information saved me hours of research, so whenever is possible, I try to do my humble contributions:</source>
@@ -162,7 +162,7 @@
           <context context-type="sourcefile">src/app/posts/posts.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
-        <note priority="1" from="description">posts</note>
+        <note priority="1" from="description">projects</note>
       </trans-unit>
       <trans-unit id="aboutMe" datatype="html">
         <source>About me</source>
@@ -183,8 +183,8 @@
         <note priority="1" from="description">nav</note>
       </trans-unit>
       <trans-unit id="posts" datatype="html">
-        <source>Posts</source>
-        <target>Posts</target>
+        <source>Projects</source>
+        <target>Projects</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/header.component.html</context>
           <context context-type="linenumber">9</context>
