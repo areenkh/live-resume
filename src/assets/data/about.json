@@ -28,16 +28,16 @@
     ],
     "hobbies": [        
         {
-            "icon": "biking",
-            "title": "Cycling"
+            "icon": "guitar",
+            "title": "Play Guitar"
         },
         {
-            "icon": "dumbbell",
-            "title": "Gym"
+            "icon": "basketball-ball",
+            "title": "sports"
         },
         {
-            "icon": "suitcase-rolling",
-            "title": "Travel"
+            "icon": "chess",
+            "title": "chess"
         },
         {
             "icon": "book",
