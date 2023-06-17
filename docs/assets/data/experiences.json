@@ -1,0 +1,198 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "startAt": "01-15-2022",
+        "endAt": "08-25-2022",
+        "companyName": "Brandies University",
+        "website": "http://www.brandeis.edu",
+        "logo": "assets/template/experience/logo/brandeis-logo.png",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Waltham",
+                "country": "MA",
+                "role": "Estágio Webmaster",
+                "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+            },
+            {
+                "language": "en",
+                "city": "Waltham",
+                "country": "MA",
+                "role": "Introduction to Problem Solving in Python Teaching Assistant",
+                "description": "At <b>Brandeis University</b> I played a vital role in an Introduction to Problem-Solving in Python course. My responsibilities included assisting in teaching the course, enhancing students' problem-solving and coding abilities, editing course materials, and evaluating assignments and exams. Through my efforts, I witnessed students' remarkable progress as they successfully completed assignments and exams, demonstrating an improved understanding of the subject matter."
+            }
+        ],
+        "technologies": [
+            "Python programming", "Problem-solving", "Teaching and communication", "Collaboration", "Teamwork"
+        ],
+        "medias": [
+            {
+                "icon": "facebook",
+                "title": "Facebook Brandeis University",
+                "http": "https://www.facebook.com/brandeisuniversity/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/uberaba.jpg"
+    },
+    {
+        "id": 2,
+        "position": 2,
+        "startAt": "08-025-2022",
+        "endAt": "12-20-2022",
+        "companyName": "TRIO SSSP",
+        "website": "https://www.brandeis.edu/academic-services/sssp/index.html",
+        "logo": "assets/template/experience/logo/TRIO-SSSP-logo.png",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Rio de Janeiro",
+                "country": "Brasil",
+                "role": "Desenvolvedor Full-stack",
+                "description": "A <b>E-tática</b> é uma agência especializada em soluções para <i>comércio eletrônico</i>, marketing digital e identidade visual desde 2008, trabalhando com grandes, pequenos e médios negócios, oferecendo para seus clientes, o know-how na integração de seus negócios com <i>Sistemas integrados de gestão empresarial (ERP)</i> e <i>APIs de terceiros</i>, tais como <i>provedores de pagamento personalizados</i>, fazendo a integração do gerenciamento interno da plataforma on-line e da loja física, sendo certificada pelas principais plataformas do mercado.<br><br>Na <i>E-tática </i>, trabalhei para desenvolver soluções personalizadas para clientes do atacado e varejo, valorizando a qualidade e a continuidade dos projetos a médio e longo prazo."
+            },
+            {
+                "language": "en",
+                "city": "Waltham",
+                "country": "MA",
+                "role": "Peer Tutor of Computer Science and Math",
+                "description":"At the <b>TRIO Student Support Services Program</b>, I had the privilege of tutoring first-generation students in computer science and mathematics courses. Through personalized support and guidance, I significantly improved their academic performance. By providing individualized assistance, I enhanced the success of first-generation students in computer science and mathematics courses."
+            }
+        ],
+        "technologies": [
+            "Tutoring and mentoring", "Communication and interpersonal skills", "Adaptability", "Problem-solving", "Empathy and sensitivity", "Time management and organization"
+        ],
+        "medias": [
+
+            {
+                "icon": "facebook",
+                "title": "Facebook SSSP",
+                "http": "https://www.facebook.com/BrandeisSSSP"
+            },
+            {
+                "icon": "instagram",
+                "title": "Instagram SSSP",
+                "http": "https://www.instagram.com/deissssp/?hl=en"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/rio.jpg"
+    },
+    {
+        "id": 3,
+        "position": 3,
+        "startAt": "09-20-2022",
+        "endAt": "12-20-2022",
+        "companyName": "TAMID Group",
+        "website": "https://tamidgroup.org",
+        "logo": "assets/template/experience/logo/TAMID-logo.png",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "São Paulo",
+                "country": "Brasil",
+                "role": "Desenvolvedor Mobile",
+                "description": "During my Software Engineer internship at <b>TAMID Group Technology Consulting</b>, I provided technology consulting services to Israeli client companies. I had the opportunity to build a chatbot using Google Chat and integrate it with Google Classroom through Google API. Additionally, I participated in developing a Google Stream Engine for uploading learning cycles to Google Classroom Stream. Through these projects, I significantly improved communication and learning experiences for teachers by seamlessly integrating the chatbot with Google Classroom."
+            },
+            {
+                "language": "en",
+                "city": "Waltham",
+                "country": "MA",
+                "role": "Software Engineer Intern",
+                "description": "During my Software Engineer internship at <b>TAMID Group Technology Consulting</b>, I provided technology consulting services to Israeli client companies. I had the opportunity to build a chatbot using Google Chat and integrate it with Google Classroom through Google API. Additionally, I participated in developing a Google Stream Engine for uploading learning cycles to Google Classroom Stream. Through these projects, I significantly improved communication and learning experiences for teachers by seamlessly integrating the chatbot with Google Classroom."
+            }
+        ],
+        "technologies": [
+            "Software development", "API integration", "Problem-solving", "Collaboration and teamwork", "Communication", "User experience (UX)", "Project management", "Python", "JavaScript", "Google Chat", "Google API", "Google Classroom", "Web technologies"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn Tamid Group",
+                "http": "https://www.linkedin.com/company/tamid-at-brandeis-university/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/sao-paulo.jpg"
+    },
+    {
+        "id": 4,
+        "position": 4,
+        "startAt": "08-27-2022",
+        "endAt": "08-27-2023",
+        "companyName": "Brandeis University",
+        "logo": "assets/template/experience/logo/brandeis-logo.png",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Utrecht",
+                "country": "Países Baixos",
+                "role": "Desenvolvedor Full-stack",
+                "description": "Na <b>Skydreamer Startup</b>, fui convidado para fazer parte da equipe de desenvolvimento do primeiro aplicativo móvel europeu que transformaria o planejamento de viagens entre amigos em um <i>Jogo de Swipe & Match</i>, oferecendo milhares de destinos em todo o mundo. Sempre com as melhores ofertas de voos, hotéis e apartamentos.<br><br>Na <i>Skydreamer</i>, tive a incrível experiência de vivenciar um <i> ambiente de startup</i>, os prós e os contras , expandindo minha mente de como liderar com o gerenciamento remoto, com prazos curtos e recursos muito limitados. Em setembro de 2017, com a versão <i>Beta</i> em execução e com vários usuários reais, fomos até a <i>TechCrunch Disrupt<i> em São Francisco, onde recebemos uma oferta de uma agência internacional de esportes e entretenimento."
+            },
+            {
+                "language": "en",
+                "city": "Waltham",
+                "country": "MA",
+                "role": "Advanced Programming Techniques in Java Teaching Assistant",
+                "description": "As a Teaching Assistant for Advanced Programming Techniques in Java at <b>Brandeis University</b>, I have been actively involved in teaching big class of students. I conducted weekly office hours, graded assignments and exams using JUnit tests, and edited course material. Through these efforts, I have successfully enhanced students' understanding of Object-Oriented Programming and Data Structures, equipping them with advanced programming techniques in Java."
+            }
+        ],
+        "technologies": [
+            "Teaching", "Grading", "Course material editing", "Communication", "Problem-solving", "OOP", "Data Structures", "Java", "JUnit testing"        
+        ],
+        "medias": [
+
+            {
+                "icon": "facebook",
+                "title": "Facebook Brandeis University",
+                "http": "https://www.facebook.com/brandeisuniversity/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/utrecht.jpg"
+    },
+    {
+        "id": 5,
+        "position": 5,
+        "startAt": "06-04-2023",
+        "endAt": "08-25-2023",
+        "companyName": "Crown Center for Middle East Studies",
+        "website": "https://www.brandeis.edu/crown/",
+        "logo": "assets/template/experience/logo/crown-center-logo.png",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Uberaba",
+                "country": "Brasil",
+                "role": "Engenheiro de Software",
+                "description": "Na <b>QAT Global</b>, eu estava encarregado de ser o <i>Pod Leader</i> de back-end, trabalhando com <i>Big Data Analysis</i> para o maior fornecedor americano de tecnologia de água, que tem negócios em mais de <i>150 países</i>, permitindo que clientes em todo o mundo transportem, tratem, testem e usem água de maneira eficiente em instalações de utilidade pública, residencial, comercial, agrícola e industrial.<br><br>Na <i>QAT Global</i>, assegurei de que todos os desenvolvedores aplicassem as melhores práticas e padrões necessários para um aplicativo corporativo de <i>alta disponibilidade</i>, melhorando não apenas minhas habilidades técnicas, mas também as habilidades interpessoais."
+            },
+            {
+                "language": "en",
+                "city": "Waltham",
+                "country": "MA",
+                "role": "Website Editor",
+                "description": "At the <b>Crown Center for Middle East Studies</b>, I collaborate closely with the team to improve the website's layout and features using CMS templates and tools. I also migrate Crown publications to the ScholarWorks portal, ensuring organized entries and enhanced accessibility. Additionally, I update website content, including text and images, while adhering to accessibility guidelines, ensuring a user-friendly experience for visitors."
+            }
+        ],
+        "technologies": [
+            "Website editing", "Collaboration", "User experience"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn Crown Center for Middle East Studies",
+                "http": "https://www.linkedin.com/company/crown-center-for-middle-east-studies/mycompany/"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook Crown Center for Middle East Studies",
+                "http": "https://www.facebook.com/CrownCenterforMiddleEastStudies/"
+            },
+            {
+                "icon": "youtube",
+                "title": "Crown Center for Middle East Studies Youtube",
+                "http": "https://www.youtube.com/channel/UC25hQ8yRiRifSb8d_YHCo-Q"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/uberaba.jpg"
+    }
+]
