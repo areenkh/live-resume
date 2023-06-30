@@ -2,7 +2,7 @@
     <img loading="lazy" src="./assets/template/welcome/bubble-frame.png" alt="Welcome Speech Bobble"/>
     <div class="console">
         <p class="hello" i18n="dialog@@hello">Hello!</p>
-        <span
+        <!--<span
             class="txt-rotate"
             appTypingAnimation
             [phrasePeriod]="2000"
@@ -17,6 +17,9 @@
                     "language": "en",
                     "phrases": [ "My name is Areen.", "Welcome to my Live Resume.", "Down below, you will know me better..." ]
                 }
-            ]'></span>
+            ]'></span>-->
+
+            <span class="txt-rotate" appTypingAnimation [phrasePeriod]="2000" [startDelay]="1500" [typeSpeed]="200" [data]="getData()"></span>
+
     </div>
 </div>
