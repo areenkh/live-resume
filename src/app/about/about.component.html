@@ -22,7 +22,7 @@
             <!--<p class="text" appInternationalization data="{{ aboutData?.internationalizations }}" property='description' itemprop="summary">Loading...</p>-->
             <!--<p class="description" appInternationalization [data]="post.internationalizations" property='description' ellipsis='275' itemprop="description">Loading...</p>-->
             <!-- <p class="description" >{{post.internationalizations[0]["description"]}}</p> -->   
-            <!--<p class="text" >{{aboutData?.internationalizations[1]["description"]}} </p>-->
+            <p class="text" >{{aboutData?.internationalizations[1]["description"]}} </p>
             <div class="hobbies">
                 <h3>Hobbies</h3>
                 <fa-icon *ngFor="let hobby of aboutData?.hobbies" [icon]="['fas', hobby.icon]" class="icon" title="{{ hobby.title }}" itemprop="hobby"></fa-icon>
