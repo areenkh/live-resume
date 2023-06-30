@@ -45,7 +45,8 @@
                                 </div>
                                 <div class="info-block">
                                     <div class="company-name"><a href="{{ exp.website }}" target="_blank">{{ exp.companyName }}</a></div>
-                                    <div class="role" appInternationalization [data]="exp.internationalizations" property='role'>Loading...</div>
+                                    <!--<div class="role" appInternationalization [data]="exp.internationalizations" property='role'>Loading...</div>--> 
+                                    <div class="role">{{exp.internationalizations[1]["description"]}}</div>
                                     <div class="period">
                                         <span>{{ exp.startAt | safariDateFormatter | localizedDate:'MMM yyyy' }}</span>
                                         <span class="devider">-</span>
