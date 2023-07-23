@@ -3,7 +3,7 @@
 .dialog-container {
 	z-index: 2;
 	margin-top: 5em;
-	animation: float-dialog 6s ease-in-out infinite;
+	
 }
 
 .dialog-container img {
