@@ -147,6 +147,10 @@
         font-size: 14px;
     }
 
+    .dialog-container .console .welcome {
+        font-size: 10px;
+    }
+
     .dialog-container .console .txt-rotate {
         font-size: 12px;
         line-height: 15px;
