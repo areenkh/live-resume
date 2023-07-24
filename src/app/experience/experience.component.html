@@ -61,7 +61,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="description" appInternationalization [data]="exp.internationalizations" property='description'>Loading...</div>
+                            <div class="description" [data]="exp.internationalizations" property='description'>Loading...</div>
                             <!--<div class="description">{{exp.internationalizations[1]["description"]}}</div>-->
                             <div class="technologies">
                                 <span class="hashtag" *ngFor="let technology of exp.technologies">{{ technology }}</span>
