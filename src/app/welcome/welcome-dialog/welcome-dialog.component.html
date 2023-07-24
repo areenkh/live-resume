@@ -2,7 +2,19 @@
     <img loading="lazy" src="./assets/template/welcome/bubble-frame.png" alt="Welcome Speech Bobble"/>
     <div class="console">
         <p class="hello" i18n="dialog@@hello">Hello!<span class="auto-type"></span></p>
-        <p class="welcome" i18n="dialog@@welcome">Welcome to my Live Resume</p>
+        <p class="welcome" >Welcome to my Live Resume 
+            <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+
+            <script>
+                var typed =new Typed(".auto-type", {
+                    strings: ["My name is Areen.", "Welcome to my Live Resume.", "Down below, you will know me better..."],
+                    typeSpeed: 200,
+                    backSpeed: 200,
+                    fadeOut: true,
+                    loop: true
+                });
+            </script>
+        </p>
        <!-- <span
             class="txt-rotate"
             appTypingAnimation
@@ -23,15 +35,4 @@
             <span class="txt-rotate" appTypingAnimation [phrasePeriod]="2000" [startDelay]="1500" [typeSpeed]="200" [data]="getData()"></span>-->
 
     </div>
-    <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
-
-<script>
-    var typed =new Typed(".auto-type", {
-        strings: ["My name is Areen.", "Welcome to my Live Resume.", "Down below, you will know me better..."],
-        typeSpeed: 200,
-        backSpeed: 200,
-        fadeOut: true,
-        loop: true
-    });
-</script>
 </div>

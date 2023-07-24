@@ -14,6 +14,10 @@
         font-size: 40px;
     }
 
+    .dialog-container .console .welcome {
+        font-size: 35px;
+    }
+
     .dialog-container .console .txt-rotate {
         font-size: 25px;
     }
@@ -35,6 +39,10 @@
 
     .dialog-container .console .hello {
         font-size: 30px;
+    }
+
+    .dialog-container .console .welcome {
+        font-size: 25px;
     }
 
     .dialog-container .console .txt-rotate {
@@ -61,6 +69,10 @@
 
     .dialog-container .console .hello {
         font-size: 30px;
+    }
+
+    .dialog-container .console .welcome {
+        font-size: 25px;
     }
 
     .dialog-container .console .txt-rotate {
@@ -90,6 +102,10 @@
         font-size: 22px;
     }
 
+    .dialog-container .console .welcome {
+        font-size: 20px;
+    }
+
     .dialog-container .console .txt-rotate {
         font-size: 16px;
     }
@@ -114,6 +130,10 @@
     }
 
     .dialog-container .console .hello {
+        font-size: 14px;
+    }
+
+    .dialog-container .console .welcome {
         font-size: 14px;
     }
 
