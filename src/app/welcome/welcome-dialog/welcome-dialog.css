@@ -31,6 +31,12 @@
     color: #222f5c;
 }
 
+.dialog-container .console .welcome {
+	font-size: 50px;
+    font-weight: 600;
+    color: #222f5c;
+}
+
 .dialog-container .console .txt-rotate {
 	font-size: 40px;
     color: #576183;
